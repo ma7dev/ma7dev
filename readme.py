@@ -23,8 +23,6 @@ contrib_tree.add("[bold link=https://github.com/sudomaze/LaTeX-Templates]LaTeX-T
 contrib_tree = tree.add("👍 Contributions", guide_style="bright_black")
 contrib_tree.add("[bold link=https://github.com/pytorch/serve/pulls?q=sudomaze]pytorch/serve[/] \t\t - [bright_black]contributed by adding features")
 contrib_tree.add("[bold link=https://github.com/pytorch/examples/pulls?q=sudomaze]pytorch/examples[/] \t - [bright_black]contributed by adding examples")
-contrib_tree.add("[bold link=https://github.com/ARBML/klaam/pulls?q=sudomaze]ARBML/klaam[/] \t\t - [bright_black]contributed by improving codebase and adding features")
-contrib_tree.add("[bold link=https://github.com/ARBML/masader/pulls?q=sudomaze]ARBML/masader[/] \t\t - [bright_black]contributed by improving website and adding features")
 # contrib_tree.add("[bold link=https://github.com/HomebrewNLP/HomebrewNLP-Jax/pulls?q=sudomaze]HomebrewNLP-Jax[/] \t - [bright_black]contributed by adding MLOps to automate experiments")
 
 online_tree = tree.add("⭐ Online Projects", guide_style="bright_black")
