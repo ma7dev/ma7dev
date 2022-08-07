@@ -46,7 +46,6 @@ rasa_tree.add("[bold]AI Web Demo[/] \t\t\t - [bright_black]sponsored by TechData
 console.print(tree)
 console.rule("[bold red]Socials")
 console.print("[green]Follow me on twitter [bold link=https://twitter.com/sudomaze]@sudomaze[/]")
-console.print("[green]Follow me on twitch [bold link=https://twitch.tv/sudomaze]ttv/sudomaze[/]")
 console.print("[green]Connect with me on linkedin [bold link=https://linkedin.com/in/sudomaze]Mazen Alotaibi[/]")
 # line
 console.rule("[bold red]Thanks")
