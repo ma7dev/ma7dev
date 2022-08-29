@@ -6,9 +6,9 @@ console = Console(record=True, width=100)
 tree = Tree("🙂 [link=https://sudomaze.dev]Mazen Alotaibi", guide_style="bold bright_black")
 
 python_tree = tree.add("📦 Open Source Packages", guide_style="bright_black")
-python_tree.add("[bold link=https://github.com/approx-ml/approx]approx[/] \t\t\t\t - [bright_black]automatic quantization library")
-python_tree.add("[bold link=https://github.com/sudomaze/onlysudo]onlysudo[/] \t\t\t - [bright_black]Discord/Twitch bot that uses AI models")
-python_tree.add("[bold link=https://github.com/sudomaze/pyreqpp]pyreqpp[/] \t\t\t - [bright_black]automatic update missing module versions in requirements.txt to latest")
+python_tree.add("[bold link=https://github.com/approx-ml/approx]approx[/] \t\t - [bright_black]automatic quantization library")
+python_tree.add("[bold link=https://github.com/sudomaze/onlysudo]onlysudo[/] \t - [bright_black]Discord/Twitch bot that uses AI models")
+python_tree.add("[bold link=https://github.com/sudomaze/pyreqpp]pyreqpp[/] \t - [bright_black]automatic update missing module versions in requirements.txt to latest.")
 
 contrib_tree = tree.add("🔬 Experiments", guide_style="bright_black")
 contrib_tree.add("[bold link=https://github.com/sudomaze/deep-learning-project-template]deep-learning-project-template[/] \t\t - [bright_black]PyTorch Lightning, Pydantic, and more!")
