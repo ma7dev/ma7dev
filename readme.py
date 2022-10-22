@@ -32,6 +32,9 @@ online_tree.add("[bold link=https://sudomaze.dev]sudomaze.dev[/] \t - [bright_bl
 
 employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
 
+explosion_tree = employer_tree.add("[bold link=https://oregonstate.edu/]Oregon State University[/] \t\t - [bright_black]Faculty Research Assistant")
+explosion_tree.add("[bold]Machine Common Sense[/] \t\t\t - [bright_black]part of the CV team and core-maintainer")
+
 explosion_tree = employer_tree.add("[bold link=https://oregonstate.edu/]Oregon State University[/] \t\t - [bright_black]Graduate Research/Teaching Assistant")
 explosion_tree.add("[bold]Machine Common Sense[/] \t\t\t - [bright_black]part of the CV team and core-maintainer")
 explosion_tree.add("[bold]Undergard-level programming course[/] \t - [bright_black]led a team of 4 undergrad TAs")
@@ -47,11 +50,10 @@ rasa_tree.add("[bold]AI Web Demo[/] \t\t\t - [bright_black]sponsored by TechData
 
 console.print(tree)
 console.rule("[bold red]Socials")
-console.print("[green]Follow me on twitter [bold link=https://twitter.com/sudomaze]@sudomaze[/]")
-console.print("[green]Connect with me on linkedin [bold link=https://linkedin.com/in/sudomaze]Mazen Alotaibi[/]")
+console.print("[green]Connect with me on linkedin [bold link=https://linkedin.com/in/sudomaze]Mazen Alotaibi[/].")
 # line
 console.rule("[bold red]Thanks")
-console.print("[yellow]This is a fork from [bold link=https://github.com/koaning/koaning]Vincent D. Warmerdam (koaning)[/]")
+console.print("[yellow]This is a fork from [bold link=https://github.com/koaning/koaning]Vincent D. Warmerdam (koaning)[/].")
 
 CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
