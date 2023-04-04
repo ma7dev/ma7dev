@@ -28,7 +28,7 @@ contrib_tree.add("[bold link=https://github.com/pytorch/examples/pulls?q=ma7dev]
 # contrib_tree.add("[bold link=https://github.com/HomebrewNLP/HomebrewNLP-Jax/pulls?q=ma7dev]HomebrewNLP-Jax[/] \t - [bright_black]contributed by adding MLOps to automate experiments")
 
 online_tree = tree.add("⭐ Online Projects", guide_style="bright_black")
-online_tree.add("[bold link=https://ma7dev.dev]ma7dev.dev[/] \t - [bright_black]personal blog")
+online_tree.add("[bold link=https://ma7.dev]ma7.dev[/] \t - [bright_black]personal blog")
 
 employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
 
