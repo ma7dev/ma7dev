@@ -3,7 +3,7 @@ from rich.tree import Tree
 
 console = Console(record=True, width=100)
 
-tree = Tree("🙂 [link=https://ma7dev.dev]Mazen Alotaibi", guide_style="bold bright_black")
+tree = Tree("🙂 [link=https://ma7.dev]Mazen Alotaibi", guide_style="bold bright_black")
 
 python_tree = tree.add("📦 Open Source Packages", guide_style="bright_black")
 python_tree.add("[bold link=https://github.com/approx-ml/approx]approx[/] \t\t - [bright_black]automatic quantization library")

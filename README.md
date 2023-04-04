@@ -1,4 +1,4 @@
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🙂 <a href="https://ma7dev.dev">Mazen Alotaibi</a>
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🙂 <a href="https://ma7.dev">Mazen Alotaibi</a>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📦 Open Source Packages
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/approx-ml/approx">approx</a></span>           - <span style="color: #808080; text-decoration-color: #808080">automatic quantization library</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/ma7dev/onlysudo">onlysudo</a></span>         - <span style="color: #808080; text-decoration-color: #808080">Discord/Twitch bot that uses AI models</span>
